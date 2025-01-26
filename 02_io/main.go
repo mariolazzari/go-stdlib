@@ -41,7 +41,6 @@ func main() {
 	fmt.Println("Enter a number:")
 	fmt.Scanf("%d", &num)
 	fmt.Println("You entered:", num)
-
 }
 
 func checkError(err error) {
